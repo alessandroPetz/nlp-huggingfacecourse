@@ -2,3 +2,4 @@ dataset/*
 checkpoint/*
 tokenizer/*
 test-trainer/*
+code-search-net-tokenizer/*
